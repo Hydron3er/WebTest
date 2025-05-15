@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>My GitHub Website</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Website</h1>
+    <nav>
+      <a href="#about">About Me</a> |
+      <a href="#projects">Projects</a> |
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Hi! I’m Jane Doe, a web developer passionate about building clean and accessible websites.</p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li><a href="https://github.com/janedoe/project1">Project 1</a> — A cool JavaScript app.</li>
+      <li><a href="https://github.com/janedoe/project2">Project 2</a> — Portfolio site redesign.</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email me at <a href="mailto:jane@example.com">jane@example.com</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Jane Doe</p>
+  </footer>
+</body>
+</html>
